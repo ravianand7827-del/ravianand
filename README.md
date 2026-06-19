@@ -1,127 +1,101 @@
-Create an exceptional GitHub Profile README for Ravi Anand that looks professional, modern, and recruiter-friendly.
+Create a premium GitHub Profile README for Ravi Anand that looks like a senior Full Stack Developer portfolio.
 
-PROFILE DETAILS:
-Name: Ravi Anand
-Role: Full Stack Developer
-Location: India
-Status: Open to Full Stack Developer and Software Development Engineer (SDE) opportunities
+Requirements:
 
-ABOUT ME:
-I am a passionate Full Stack Developer who enjoys building scalable web applications, REST APIs, AI-powered solutions, and modern user experiences. I love working across the entire development lifecycle, from frontend design to backend architecture and cloud deployment.
+1. Create a professional hero section with:
+   - Animated typing text
+   - Full Stack Developer title
+   - Modern banner image
+   - Profile views badge
+   - GitHub followers badge
+   - GitHub stars badge
 
-TECH STACK:
+2. Add a professional About Me section.
+
+3. Create a "Tech Stack" section using LARGE technology logos.
+
+Use technology logos from:
+https://skillicons.dev
+
+Display logos in rows.
 
 Frontend:
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+HTML
+CSS
+JavaScript
+React
+Tailwind CSS
+Bootstrap
 
 Backend:
-- Node.js
-- Express.js
-- REST APIs
+Node.js
+Express.js
 
-Databases:
-- MongoDB
-- PostgreSQL
-- MySQL
+Database:
+MongoDB
+PostgreSQL
+MySQL
 
-Tools & Platforms:
-- Git
-- GitHub
-- Docker
-- AWS
-- Postman
-- VS Code
+Cloud & DevOps:
+AWS
+Docker
+Git
+GitHub
 
-CURRENTLY LEARNING:
-- System Design
-- Cloud Architecture
-- Microservices
-- Advanced React Patterns
-- AI Integrations
+Tools:
+VS Code
+Postman
 
-FEATURED PROJECTS:
+Example:
 
-1. AI-Powered E-Commerce Platform
-Tech: React.js, Node.js, PostgreSQL, OpenAI API, Docker
-Features:
-- AI product recommendations
-- Secure authentication
-- Responsive UI
-- Scalable architecture
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres,mysql,docker,git,github,aws,vscode,postman&perline=8" />
+</p>
 
-2. Amazon Prime Clone
-Tech: React.js, Node.js, Express.js, MongoDB
-Features:
-- JWT Authentication
-- Video streaming platform
-- Watchlists and subscriptions
-- Responsive design
+4. Create a Featured Projects section using cards.
 
-3. Spotify Clone
-Tech: React.js, Node.js, MongoDB
-Features:
-- Music streaming UI
-- Playlist management
-- User authentication
+Projects:
 
-4. Personal Portfolio Website
-Tech: React.js, Tailwind CSS
-Features:
-- Modern responsive design
-- Project showcase
-- Contact form
-- Professional branding
+🚀 AI-Powered E-Commerce Platform
+🛒 Amazon Prime Clone
+🎵 Spotify Clone
+💼 Portfolio Website
 
-README DESIGN REQUIREMENTS:
-
-- Modern animated typing banner
-- Professional introduction section
-- Visitor counter badge
-- GitHub Followers badge
-- GitHub Profile Views badge
-- Tech stack icons using skillicons.dev
-- GitHub Stats Card
-- GitHub Streak Stats
-- Most Used Languages Card
-- GitHub Trophies
-- Contribution Activity Graph
-- Professional Connect With Me section
-- Clean and premium layout
-- Dark mode compatible
-- Mobile responsive
-- ATS-friendly
-- Well-structured markdown
-
-SOCIAL LINKS PLACEHOLDERS:
-
-LinkedIn:
-https://linkedin.com/in/YOUR-LINKEDIN
-
-Portfolio:
-https://yourportfolio.com
-
-LeetCode:
-https://leetcode.com/YOUR-USERNAME
-
-Email:
-your-email@example.com
-
-ADD SECTIONS:
-- Hero Banner
-- About Me
+Each project should contain:
+- Description
 - Tech Stack
-- Featured Projects
-- GitHub Analytics
-- Learning Journey
-- Connect With Me
-- Fun Fact
+- GitHub Link Placeholder
+- Live Demo Placeholder
 
-FUN FACT:
-"I enjoy turning ideas into scalable digital products and continuously exploring new technologies."
+5. GitHub Analytics Section
 
-Generate the COMPLETE README.md code with proper markdown, badges, GitHub widgets, icons, and professional st
+Include:
+- GitHub Stats
+- GitHub Streak
+- Top Languages
+- GitHub Trophy
+
+6. Contribution Graph
+
+7. Connect With Me section
+
+Use clickable icons:
+
+LinkedIn Logo
+LeetCode Logo
+Portfolio Logo
+Gmail Logo
+
+8. Add a modern coding GIF.
+
+9. Use:
+- Center alignment
+- Modern badges
+- Professional spacing
+- Dark mode compatibility
+- Glassmorphism style
+- Recruiter-friendly design
+
+10. Make it look similar to top GitHub developers and software engineers.
+
+Generate the complete README.md code.
